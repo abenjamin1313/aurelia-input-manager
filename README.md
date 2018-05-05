@@ -9,13 +9,13 @@ Customer manager application using the Aurelia JS framework along with JavaScrip
 ## Development server
 Download the basic script setup [Download Aurelia Porject](http://aurelia.io/downloads/basic-aurelia-project.zip)  
 also run  
-npm install aurelia-cli -g   
+##### npm install aurelia-cli -g   
 To create the project, run au new from the command line. You will be presented with a number of options.  
 
 #### NodeJS with npm
 To start up a simple web server in the project folder, first globally install the http-server command with   
-npm install http-server -g  
+##### npm install http-server -g  
 You can now spin up the server from within the folder with the following command  
-http-server -o -c-1
+##### http-server -o -c-1
 
-##### Author: Adam Victor [Adam Victor](http://amvwebsolutions.com/)   
+##### Author: [Adam Victor](http://amvwebsolutions.com/)   
