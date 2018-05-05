@@ -15,4 +15,4 @@ npm install http-server -g
 You can now spin up the server from within the folder with the following command  
 http-server -o -c-1
 
-##### BY Adam Victor [Adam Victor](http://amvwebsolutions.com/)   
+##### Author: Adam Victor [Adam Victor](http://amvwebsolutions.com/)   
