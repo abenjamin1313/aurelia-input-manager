@@ -1,5 +1,6 @@
 ## aurelia front end framework
-Customer manager application using the Aurelia JS framework along with JavaScript local storage to persist the data to the client. Using bootstrap CSS for the layout and some styling on the input form plus output table.
+Customer manager application using the Aurelia JS framework along with JavaScript local storage to persist the data to the client. Using [bootstrap](https://getbootstrap.com/docs/3.3/css/) CSS for the layout and some styling on the input form plus output table.  
+[Bootstrap Components](https://getbootstrap.com/docs/3.3/components/)
 
 ### Landing  Page
 ![alt text](https://github.com/abenjamin1313/aurelia-input-manager/blob/gh-pages/images/landing-page.png)  
